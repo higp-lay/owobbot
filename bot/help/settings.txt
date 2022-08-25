@@ -1,0 +1,20 @@
+Options
+Settings that you can modify through running 'settings'
+
+```change_prefix``` - owners/roles-on-admin-list-only command
+To change your prefix
+
+```get_prefix```
+To get your prefix
+
+```reset_prefix``` - owners/roles-on-admin-list-only command
+To reset your prefix
+
+```get_admin``` - owners/roles-on-admin-list-only command
+To get the admin list
+
+```add_admin``` - owners/roles-on-admin-list-only command
+To add roles into the admin list
+
+```remove_admin``` - owners/roles-on-admin-list-only command
+To remove roles from the admin list

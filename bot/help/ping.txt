@@ -1,0 +1,3 @@
+Ping, Pong!
+```ping```
+Returns the bot and API latency at the moment.

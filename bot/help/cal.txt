@@ -1,0 +1,3 @@
+owob bot calculator
+```cal [expression]```
+Sorry, this command is not available as it is in development.

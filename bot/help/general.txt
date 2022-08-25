@@ -1,0 +1,7 @@
+List of command
+You may also do help [command] to see more details 
+```hi```
+```help [command]```
+```cal [expression]```
+```settings```
+```ping```

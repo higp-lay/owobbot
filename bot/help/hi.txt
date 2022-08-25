@@ -1,0 +1,4 @@
+Greetings!
+```hi```
+Greets owobbot!
+And returns server's prefix
